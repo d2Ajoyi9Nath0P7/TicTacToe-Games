@@ -12,6 +12,7 @@ public class main
         int cnt = 0;
         int option = 0;
         Scanner sc = new Scanner(System.in);
+
         while(true)
         {
             System.out.println("Playing with Human or AI,playing with human click-1 or playing with AI click-2 : ");
